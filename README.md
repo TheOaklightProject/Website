@@ -6,7 +6,8 @@ Let's start with a breif introduction. The Oaklight Project is a hobby project c
 
 
 ## Contributing
->[!NOTE] before you contribute, please make sure you agree to our Code of Conduct. [Learn More](CODE_OF_CONDUCT.md).
+>[!NOTE]
+> before you contribute, please make sure you agree to our Code of Conduct. [Learn More](CODE_OF_CONDUCT.md).
 
 ## License
 > This source code is licensed under the **MIT** license. For more information please click [here](./LICENSE).
